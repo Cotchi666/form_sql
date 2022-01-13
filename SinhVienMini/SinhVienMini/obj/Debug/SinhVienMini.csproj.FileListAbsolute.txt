@@ -1,0 +1,13 @@
+C:\Users\Chien\source\repos\SinhVienMini\SinhVienMini\bin\Debug\SinhVienMini.exe.config
+C:\Users\Chien\source\repos\SinhVienMini\SinhVienMini\bin\Debug\SinhVienMini.exe
+C:\Users\Chien\source\repos\SinhVienMini\SinhVienMini\bin\Debug\SinhVienMini.pdb
+C:\Users\Chien\source\repos\SinhVienMini\SinhVienMini\bin\Debug\MySql.Data.dll
+C:\Users\Chien\source\repos\SinhVienMini\SinhVienMini\obj\Debug\SinhVienMini.csproj.AssemblyReference.cache
+C:\Users\Chien\source\repos\SinhVienMini\SinhVienMini\obj\Debug\SinhVienMini.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chien\source\repos\SinhVienMini\SinhVienMini\obj\Debug\SinhVienMini.Form1.resources
+C:\Users\Chien\source\repos\SinhVienMini\SinhVienMini\obj\Debug\SinhVienMini.Properties.Resources.resources
+C:\Users\Chien\source\repos\SinhVienMini\SinhVienMini\obj\Debug\SinhVienMini.csproj.GenerateResource.cache
+C:\Users\Chien\source\repos\SinhVienMini\SinhVienMini\obj\Debug\SinhVienMini.csproj.CoreCompileInputs.cache
+C:\Users\Chien\source\repos\SinhVienMini\SinhVienMini\obj\Debug\SinhVienMini.csproj.CopyComplete
+C:\Users\Chien\source\repos\SinhVienMini\SinhVienMini\obj\Debug\SinhVienMini.exe
+C:\Users\Chien\source\repos\SinhVienMini\SinhVienMini\obj\Debug\SinhVienMini.pdb
